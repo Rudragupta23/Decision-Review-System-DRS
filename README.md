@@ -28,7 +28,9 @@ It provides an interactive graphical user interface (GUI) where users can review
 <li>Stump Impact Prediction: Allows the user to select the stump area to predict whether the ball would have hit the wickets, assisting in LBW decisions.</li>
 </ul>
 ### Tech Stack:
-<hr>
+
+<br>
+
 Core Language: Python
 
 GUI: Tkinter
