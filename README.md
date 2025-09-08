@@ -1,14 +1,14 @@
 # Decision Review System (DRS) Simulator
 A Python-based simulator for the cricket Decision Review System (DRS) using Tkinter for the GUI and OpenCV for video processing.
 
-### Problem Statement
+### Problem Statement:
 In the sport of cricket, umpiring decisions can be contentious and have a significant impact on the outcome of a match.
 
 The Decision Review System (D.R.S.) was introduced to minimize human error, but its intricacies can be complex for fans, aspiring umpires, and developers.
 
 There is a need for a simple, interactive tool that can simulate the DRS process, providing a clear visual representation of the review and decision-making workflow.
 
-### About The Project
+### About The Project:
 This project is a comprehensive cricket DRS simulator built with Python.
 
 It provides an interactive graphical user interface (GUI) where users can review an umpiring decision by watching video playback, just like in a real match.
@@ -27,7 +27,8 @@ It provides an interactive graphical user interface (GUI) where users can review
 
 <li>Stump Impact Prediction: Allows the user to select the stump area to predict whether the ball would have hit the wickets, assisting in LBW decisions.</li>
 </ul>
-###Tech Stack
+### Tech Stack:
+<hr>
 Core Language: Python
 
 GUI: Tkinter
